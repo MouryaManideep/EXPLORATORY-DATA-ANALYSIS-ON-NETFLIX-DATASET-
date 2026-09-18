@@ -20,7 +20,8 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a Netflix 
 - Visualization of trends and patterns
 
 ## Dataset
-Netflix dataset sourced from : [https://statso.io/netflix-content-strategy-case-study/](https://statso.io/) 
+Netflix dataset sourced from : https://statso.io/ 
+Netflix dataset sourced from : [https://statso.io/netflix-content-strategy-case-study - Not working
 
 ## Visualizations
 Sample visualizations included trends over years, top viewed titles, language distribution, and content type analysis.
